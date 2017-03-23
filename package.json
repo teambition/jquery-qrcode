@@ -1,5 +1,5 @@
 {
-  "name": "jquery-qrcode",
+  "name": "@teambition/jquery-qrcode",
   "displayName": "jQuery.qrcode",
   "version": "0.14.0",
   "description": "Generate QR codes dynamically.",
@@ -7,6 +7,7 @@
   "bugs": "https://github.com/lrsjng/jquery-qrcode/issues",
   "author": "Lars Jung <lrsjng@gmail.com> (https://larsjung.de)",
   "license": "MIT",
+  "main": "dist/jquery-qrcode.js",
   "scripts": {
     "lint": "eslint .",
     "build": "node ghu.js release",
